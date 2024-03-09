@@ -8,6 +8,10 @@ GroceryShop is a simple web project that allows users to browse and purchase gro
 - **Shopping Cart:** Users can add products to their shopping cart and view a summary of their selections.
 - **Responsive Design:** The website is designed to work seamlessly across various devices and screen sizes.
 
+## Screen
+![project-6](https://github.com/Rahuljoshi07/GroceryShop/assets/86591216/7d9a96a5-6086-4075-9fc4-1545d353886f)
+
+
 ## Installation
 
 1. Clone the repository:
