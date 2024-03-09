@@ -5,7 +5,6 @@ GroceryStore is a simple web project that allows users to browse and purchase gr
 ## Features
 
 - **Product Catalog:** Users can view a list of available groceries with details such as name, price, and description.
-- **Shopping Cart:** Users can add products to their shopping cart and view a summary of their selections.
 - **Responsive Design:** The website is designed to work seamlessly across various devices and screen sizes.
 
 ## Screen
