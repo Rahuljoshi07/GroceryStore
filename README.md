@@ -16,7 +16,7 @@ GroceryStore is a simple web project that allows users to browse and purchase gr
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/GroceryShop.git
+    git clone https://github.com/Rahuljoshi07/GroceryShop.git
     ```
 
 2. Open the `index.html` file in your web browser to view the website locally.
