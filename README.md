@@ -1,6 +1,6 @@
-# GroceryShop
+# GroceryStore
 
-GroceryShop is a simple web project that allows users to browse and purchase groceries online. This project is built using HTML and CSS only, making it easy to understand and customize for developers of all levels.
+GroceryStore is a simple web project that allows users to browse and purchase groceries online. This project is built using HTML and CSS only, making it easy to understand and customize for developers of all levels.
 
 ## Features
 
